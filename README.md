@@ -68,7 +68,7 @@ void PrenderDisplay(int numero)
 ~~~
 
 ## 🚅 Link al proyecto
-- [proyecto]([https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/gO5GRBbJRg1-dojo-2/editel)
+- [proyecto](https://www.tinkercad.com/things/aOYiibnDjWu](https://www.tinkercad.com/things/gO5GRBbJRg1-dojo-2/editel)
 
 ## :tv: Link al video del funcionamiento
 - [video](https://youtu.be/AJGb5cAVgBU)
