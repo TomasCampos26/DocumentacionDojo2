@@ -1,5 +1,5 @@
 # DocumentacionDojo2
-![Tinkercad](./img/ArduinoTinkercad.jpg)
+![Tinkercad](ArduinoTinkercad.jpg)
 
 
 ## Integrantes 
